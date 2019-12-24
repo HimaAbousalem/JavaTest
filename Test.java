@@ -7,7 +7,7 @@ Class Test{
 		x=3;
 	}
 	
-	public int getData(){
+	public int etData(){
 		return 1;
 	}
 }
