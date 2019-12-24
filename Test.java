@@ -7,7 +7,7 @@ Class Test{
 	}
 	
 	public int getData(){
-		return 1;
+		return 2;
 	}
 	public int add(int x,int y){
 		return x+y;
