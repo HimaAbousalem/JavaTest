@@ -3,7 +3,9 @@ Class Test{
 		
 		int x = 2;
 		x = 3;
-		int y = x*x;
+		x=3;
+		x = 3;
+		int y = x;
 		System.out.println("test auto mergeing");
 		x=3;
 	}
