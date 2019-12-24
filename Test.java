@@ -6,7 +6,7 @@ Class Test{
 		System.out.println("test auto mergeing");
 	}
 	
-	public int getData(){
+	public int geData(){
 		return 1;
 	}
 }
