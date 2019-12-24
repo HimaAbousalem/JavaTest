@@ -5,6 +5,7 @@ Class Test{
 		x = 3;
 		int y = x*x;
 		System.out.println("test auto mergeing");
+		x=3;
 	}
 	
 	public int getData(){
