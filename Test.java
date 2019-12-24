@@ -3,7 +3,7 @@ Class Test{
 		
 		int x = 2;
 		x = 3;
-		System.out.println("test auto mergeing");
+		System.out.println(x);
 	}
 	
 	public int getData(){
