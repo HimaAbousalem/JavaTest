@@ -3,7 +3,7 @@ Class Test{
 		
 		int x = 2;
 		x = 4;
-		
+	
 		System.out.println("test auto mergeing");
 		x=4;
 	}
