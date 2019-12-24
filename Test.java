@@ -7,7 +7,7 @@ Class Test{
 		System.out.print("test auto mergeing"+x);
 		
 
-		x = 3;
+		
 		System.out.println(x);
 
 	}
